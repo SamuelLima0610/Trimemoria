@@ -1,2 +1,24 @@
-# Trimemoria
-Uma aplicação com Vue client para o auxilio de um jogo chamado trimemória. Conforme for detectado uma movimentação do jogo através de dispositivo RFID, a aplicação vai mostrar uma imagem e tocar um áudio
+# lenda
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
